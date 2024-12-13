@@ -1,0 +1,2 @@
+1) JWT entegrasyonu
+2) rate limiter ( belirli bir IP den belirli sayıda istek gelmesi )
